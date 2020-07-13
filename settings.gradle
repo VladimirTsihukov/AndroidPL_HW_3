@@ -1,0 +1,2 @@
+rootProject.name='AndroidPL_HW_3'
+include ':app'
