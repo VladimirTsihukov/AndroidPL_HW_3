@@ -8,4 +8,9 @@
         <item name="colorAccent">@color/colorAccent</item>
     </style>
 
+    <style name="TitleText">
+        <item name="android:keyTextSize">20sp</item>
+        <item name="textAllCaps">false</item>
+    </style>
+
 </resources>
